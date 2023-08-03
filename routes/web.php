@@ -20,3 +20,7 @@ Route::get('abut', function () {
     return 'About Us page';
 
 });
+Route::get('Reporting', function () {
+    return 'Reporting page';
+
+});
